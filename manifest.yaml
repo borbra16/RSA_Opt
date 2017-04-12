@@ -1,0 +1,2 @@
+main_file: target/rsa-0.0.1-SNAPSHOT.war
+build_command: mvn package
