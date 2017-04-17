@@ -9,7 +9,7 @@ base: cloudius/osv-openjdk8
 cmdline: /java.so -jar /app.war
 
 #
-# The command to use to download the application.
+# The command to use to build the java-archieve.
 #
 build: mvn package
 
